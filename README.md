@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Prahlad 👋
 
-<!--
-**prahladkrniraj-18/prahladkrniraj-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student who enjoys learning, building, and
+contributing to things that make a difference.
 
-Here are some ideas to get you started:
+I believe meaningful work is about more than what we create---it's also
+about the people we help and the positive impact we leave behind.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm focused on
+
+-   Building practical projects and learning by doing
+-   Improving my problem-solving and software development skills
+-   Exploring opportunities to collaborate, contribute, and learn from
+    others
+-   Growing into someone who creates useful things and gives back to the
+    community
+
+## 🛠️ Tools I use
+
+-   **Languages:** C++, JavaScript, SQL
+-   **Frontend:** React, HTML, CSS
+-   **Backend:** Node.js, Express.js, REST APIs
+-   **Databases:** MongoDB, MySQL
+-   **Tools:** Git, GitHub
+
+## 🤝 Let's connect
+
+I'm always happy to learn from others, exchange ideas, and contribute to
+meaningful projects.
+
+-   **GitHub:**
+    [@prahladkrniraj-18](https://github.com/prahladkrniraj-18)
+-   **LinkedIn:** [Prahlad Kumar Niraj](www.linkedin.com/in/prahlad-kumar-niraj)
+
+------------------------------------------------------------------------
+
+*Building things that matter, giving back, and making a difference---one
+step at a time. 🌱*
