@@ -27,12 +27,3 @@ about the people we help and the positive impact we leave behind.
 
 I'm always happy to learn from others, exchange ideas, and contribute to
 meaningful projects.
-
--   **GitHub:**
-    [@prahladkrniraj-18](https://github.com/prahladkrniraj-18)
--   **LinkedIn:** [Prahlad Kumar Niraj](www.linkedin.com/in/prahlad-kumar-niraj)
-
-------------------------------------------------------------------------
-
-*Building things that matter, giving back, and making a difference---one
-step at a time. 🌱*
